@@ -1,1 +1,0 @@
-:root{--fg: #cfe3f0;--fg-dim: #5d7689;--red: #e2402c;--blue: #00e2e4;--bg: #05070a;font-family:JetBrains Mono,SF Mono,Consolas,ui-monospace,monospace}*{box-sizing:border-box}html,body{margin:0;padding:0;height:100%;background:var(--bg);color:var(--fg);overflow:hidden}canvas{display:block}
